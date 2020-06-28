@@ -1,12 +1,12 @@
 ## INFO
 
-Nickname : Gabi 
+**Nickname** : Gabi 
 
-Hobbies : Electronics, basketball, computer games, music
+**Hobbies** : Electronics, basketball, computer games, music
 
 ## Education
 
-Topics of interest : Machine Learning, app development, database, electronics, automation, autonomous robots
+**Topics of interest** : Machine Learning, app development, database, electronics, automation, autonomous robots
 
 ## Books
 
