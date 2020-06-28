@@ -10,6 +10,8 @@ Topics of interest : Machine Learning, app development, database, electronics, a
 
 ## Books
 
-Introduction to Algorithms - Thomas H. Cormen
-Cracking the Coding Interview - Gayle Laakmann McDowell
-Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems - Martin Kleppmann
+**Introduction to Algorithms** - Thomas H. Cormen
+
+**Cracking the Coding Interview** - Gayle Laakmann McDowell
+
+**Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** - Martin Kleppmann
