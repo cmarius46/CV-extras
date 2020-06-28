@@ -1,3 +1,4 @@
+INFO
 
-##Info
-dadadaada
+Nickname : Gabi
+Hobbies : Electronics, basketball, computer games, music.
